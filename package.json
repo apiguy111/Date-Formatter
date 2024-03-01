@@ -1,6 +1,6 @@
 {
   "name": "date-formater-df",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "date formatter",
   "main": "index.js",
   "type": "module",
