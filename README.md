@@ -15,15 +15,15 @@ Insert gif or link to demo
 Install with npm or yarn
 
 ```bash
-  npm install date-formatter-apiguy111
+  npm install date-formatter-df
   or
-  yarn add date-formatter-apiguy111
+  yarn add date-formatter-df
 ```
 
 ## Usage/Examples
 
 ```javascript
-import { formatDateTime } from "date-formatter-apiguy111";
+import { formatDateTime } from "date-formatter-df";
 
 const formattedDateTime = formatDateTime("2024-01-16T05:30:17.520+00:00");
 console.log(formattedDateTime);
